@@ -1,0 +1,12 @@
+Adobe After Effects v13.8.1 Windows 64 render log for project “Storyboard.aep”
+
+Rendering started on 8/28/2016 at 10:39:59 PM
+
+  8/28/2016 10:39:59 PM: Starting composition “Slide 13 final consult”.
+
+  Output To: D:\After Effects Cache\Slide 13 final consult (0;00;00;00).png    8/28/2016 10:39:59 PM: Finished composition “Slide 13 final consult”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 8/28/2016 at 10:39:59 PM
+

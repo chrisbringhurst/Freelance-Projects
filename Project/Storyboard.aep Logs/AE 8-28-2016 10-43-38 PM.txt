@@ -1,0 +1,42 @@
+Adobe After Effects v13.8.1 Windows 64 render log for project “Storyboard.aep”
+
+Rendering started on 8/28/2016 at 10:43:38 PM
+
+  8/28/2016 10:43:38 PM: Starting composition “Slide11”.
+
+  Output To: D:\After Effects Cache\Slide11 (0;00;00;23)_1.png    8/28/2016 10:43:38 PM: Finished composition “Slide11”.
+
+
+  8/28/2016 10:43:38 PM: Starting composition “Slide6b”.
+
+  Output To: D:\After Effects Cache\Slide6b (0;00;00;23).png    8/28/2016 10:43:38 PM: Finished composition “Slide6b”.
+
+
+  8/28/2016 10:43:38 PM: Starting composition “Slide6a”.
+
+  Output To: D:\After Effects Cache\Slide6a (0;00;00;23)_1.png    8/28/2016 10:43:38 PM: Finished composition “Slide6a”.
+
+
+  8/28/2016 10:43:38 PM: Starting composition “Slide4”.
+
+  Output To: D:\After Effects Cache\Slide4 (0;00;06;22)_1.png    8/28/2016 10:43:38 PM: Finished composition “Slide4”.
+
+
+  8/28/2016 10:43:38 PM: Starting composition “Slide3”.
+
+  Output To: D:\After Effects Cache\Slide3 (0;00;06;22)_1.png    8/28/2016 10:43:38 PM: Finished composition “Slide3”.
+
+
+  8/28/2016 10:43:38 PM: Starting composition “Slide2”.
+
+  Output To: D:\After Effects Cache\Slide2 (0;00;06;22)_1.png    8/28/2016 10:43:39 PM: Finished composition “Slide2”.
+
+
+  8/28/2016 10:43:39 PM: Starting composition “Slide1”.
+
+  Output To: D:\After Effects Cache\Slide1 (0;00;00;23).png    8/28/2016 10:43:39 PM: Finished composition “Slide1”.
+
+
+  Total Time Elapsed: 1 Seconds
+Log closed on 8/28/2016 at 10:43:39 PM
+
