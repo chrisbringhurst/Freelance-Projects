@@ -1,0 +1,12 @@
+Adobe After Effects v13.8.1 Windows 64 render log for project “Storyboard.aep”
+
+Rendering started on 9/5/2016 at 12:59:05 AM
+
+  9/5/2016 12:59:05 AM: Starting composition “Full Feature”.
+
+  Output To: D:\After Effects Cache\Full Feature.avi    9/5/2016 1:03:40 AM: Finished composition “Full Feature”.
+
+
+  Total Time Elapsed: 4 Min, 35 Sec
+Log closed on 9/5/2016 at 1:03:40 AM
+

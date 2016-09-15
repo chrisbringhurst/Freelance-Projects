@@ -1,0 +1,12 @@
+Adobe After Effects v13.8.1 Windows 64 render log for project “Storyboard.aep”
+
+Rendering started on 9/2/2016 at 2:32:35 AM
+
+  9/2/2016 2:32:35 AM: Starting composition “Slide3”.
+
+  Output To: D:\After Effects Cache\Slide3 (0;00;03;07).png    9/2/2016 2:32:35 AM: Finished composition “Slide3”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 9/2/2016 at 2:32:35 AM
+

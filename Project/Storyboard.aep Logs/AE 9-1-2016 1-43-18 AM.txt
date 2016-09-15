@@ -1,0 +1,12 @@
+Adobe After Effects v13.8.1 Windows 64 render log for project “Storyboard.aep”
+
+Rendering started on 9/1/2016 at 1:43:18 AM
+
+  9/1/2016 1:43:18 AM: Starting composition “Slide 10 handing in”.
+
+  Output To: D:\After Effects Cache\Slide 10 handing in (0;00;00;00).png    9/1/2016 1:43:18 AM: Finished composition “Slide 10 handing in”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 9/1/2016 at 1:43:18 AM
+
